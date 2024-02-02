@@ -1,4 +1,4 @@
-# The Future in Tech
+# The Future in TECH
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
